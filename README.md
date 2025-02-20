@@ -1,4 +1,4 @@
-##Lucas Carter - Portfolio
+#Lucas Carter - Portfolio
 
 My name is Lucas Carter. I am currently a second-year student at Manchester Metropolitan University studying Computer Games Development. 
 
