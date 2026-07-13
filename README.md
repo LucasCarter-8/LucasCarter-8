@@ -1,6 +1,6 @@
 --> Lucas Carter - Portfolio
 
-My name is Lucas Carter. I am a Computer Games Development Graduate from Manchester Metropolitan University studying 
+My name is Lucas Carter. I am a Computer Games Development Graduate from Manchester Metropolitan University.
 
 I have developed a strong understanding of programming languages such as C#, C++ and Java as well as additional experience in JavaScript and Lua. My coursework on databases has provided me with a great foundation in SQL and database design and I have become proficient with the Unity Game Engine. I have also had hands-on experience working in a team to design and create games and other software as part of my course.
 
