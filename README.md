@@ -43,7 +43,7 @@ This was a repository that I worked on as part of a team for my Team Project uni
 <img width="2455" height="1231" alt="image" src="https://github.com/user-attachments/assets/8590c6df-4099-4edb-b65f-d76de5595bef" />
 
 ## Oath - One-shot One-Kill platformer
-- https://github.com/ManMetGames/6g4z0023-2324-LucasCarter-8
+- https://github.com/LucasCarter-8/OathGame
 
 This project was a game that I developed in my first year. I developed a unique action game that utilized complex mechanics to deliver an engaging experience. I also developed a rudimentary save system alongside all the assets for the game. This project showcased my ability and allowed me to achieve 100% in my Craft Of Game Development unit.
 
