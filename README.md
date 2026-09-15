@@ -12,14 +12,14 @@ Repositories:
 
 My Final Project revolved around the idea of player states transitioning to unique player actions. The key system built in this repo was a hierarchical state machine where various player states or actions could have child states and be able to transition accordingly through them. This powerful system allowed the game to form strongly around it, resulting in an enjoyable experience reminiscent of classic adventure games.
 
-<img width="2538" height="1421" alt="Screenshot 2026-09-15 142132" src="https://github.com/user-attachments/assets/00f58deb-896c-41bc-af48-db2af9de1a29" />
+<img width="2560" height="1440" alt="Screenshot 2026-09-15 134629" src="https://github.com/user-attachments/assets/466896b6-c4fe-4101-89b6-55439b6dbc77" />
 
 ## Fold - Fast-paced Rogue-like shooter where I was Game Director
 - https://github.com/LucasCarter-8/OG-Fold
 
 This project was a game I pitched as part of my 'Games Studio' module. As team leader, I managed 13 members each with varying programming levels to create a experience that I am quite proud of. I worked on almost every aspect of the game especially the weapon/combat systems. Using Jira and Github, I managed to effectively keep the project on track over the 9 one-week sprints we were given.
 
-<img width="2560" height="1440" alt="Screenshot 2026-09-15 134629" src="https://github.com/user-attachments/assets/466896b6-c4fe-4101-89b6-55439b6dbc77" />
+<img width="2538" height="1421" alt="Screenshot 2026-09-15 142132" src="https://github.com/user-attachments/assets/00f58deb-896c-41bc-af48-db2af9de1a29" />
 
 ## Coupon Hero - Created within 1 week and winner of best overall game
 - https://github.com/LucasCarter-8/RGP-Theme-6-Project---Lucas-Carter-23636298
